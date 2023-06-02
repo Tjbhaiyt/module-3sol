@@ -11,7 +11,7 @@ body {
 }
 
 #header-nav {
-  background-color:#999999;
+  background-color: #0000FF;
   border-radius: 0;
   border: 1px;
   min-height: 70px;
@@ -19,7 +19,7 @@ body {
 
 .navbar-brand h1 {
   font-family: pointsoft;
-  color: black;
+  color:  #00FFFF;
   font-size: 1.8em;
   text-transform: uppercase;
   font-weight: bold;
@@ -40,6 +40,7 @@ body {
 
 #nav-list a:hover {
   background:whitesmoke;
+  color: #FF0000;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
@@ -74,3 +75,36 @@ h3 {
 .footer-copyright{
   padding: 50px;
 }
+
+#back
+{
+
+color:  #00FF00;
+
+}
+#back a {
+
+
+  color: #00FFFF;
+}
+h2 {
+
+  color: #FF1493;
+}
+
+#chicken,#beef,#sushi {
+
+  color: #FFFF00;
+}
+.text-background {
+
+  color:  #F0FFFF;
+  background-color: red;
+}
+
+ #nav-list a {
+
+  color: #FFFF00;
+} 
+
+
